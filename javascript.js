@@ -24,7 +24,7 @@ for (var i = 100; i>0; i--) {
 var i = 4;
 console.log(i);
 while (i > -3.5) {
-    i -= 1.5
+    i -= 1.5;
     console.log(i);
 }
 
